@@ -1,0 +1,35 @@
+1. Caracterização
+	. Pandas-profiling (Use best/most relevant)
+	. Total picks per postion along the years
+	. Average pick per position along the years
+	. Total pick per College/Unv. along the years
+	. Unique college/univ. along the years
+	. Average pick per coll/univ. along the years
+
+2. Testes de Hipotese/Intervalos de confiança
+
+3. Regressão
+	
+4. Aprendizado/Classificação
+
+5. Motivação
+
+	A National Football League (NFL) é o ápice do futebol americano mundial em termos de qualidade,
+	organizaçao e visibilidade do esporte. A cada final de semana somos contemplados com jogos do 
+	mais alto nivel de qualidade. E com os dados não poderia ser diferente. Mas tudo começa em 
+	singelos 3 dias de Abril quando ocorre o NFL Draft, onde os melhores jogadores do College
+	Football (Futebol americano Unversitário) são escolhidos pelos 32 times da liga, após muitos meses
+	de estudos e analise de desempenho.
+
+	Por mais que estejamos tratando de esportes, uma das ciencias mais inexatas da humanidade, onde
+	zebras podem ocorrer a qualquer momento, descartando quaisquer estudos, previsões e probabilidades,
+	tambem somos agracidados com quantidades enormes de dados, que tem sido usados cada vez mais para
+	estudos, analises de desempenho e eventos, sempre elevando a qualidade dos esportes. 
+
+6. Metodologia
+
+7. Resultados
+
+
+
+
