@@ -28,6 +28,18 @@
 
 6. Metodologia
 
+	No escopo desse trabalho pratico usaremos como base de dados o 
+	arquivo "nfl_draft.csv", o qual contém dados sobre os jogadores
+	selecionados nos drats entre os anos de 1985 e 2015. Entre os 
+	dados temos informações relacionadas ao draft onde o jogador 
+	foi escolhido(ano, round de escolha, numero da escolha) e da
+	carreira do jogador (anos de carreira, jogos totais, totais de
+	destaques de temporada, postion-related data), parte da avaliação
+	de cada jogador é quantificada pelo "Aproximate Value" através
+	de métricas usadas pelo site "Pro Football Reference" e estas
+	não serão detalhadas.
+
+
 7. Resultados
 
 
