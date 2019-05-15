@@ -1,46 +1,30 @@
 # projeto_icd
+
 Projeto final da disciplina de Introdução a Ciencia de Dados - UFMG
 
-Descrição CSV:
+## Motivação
 
-Context
-Consolidated draft data from http://www.pro-football-reference.com/ for all drafts from 1985 to 2015.
+A National Football League (NFL) é o ápice do futebol americano mundial em termos de qualidade,
+organizaçao e visibilidade do esporte. A cada final de semana somos contemplados com jogos do
+mais alto nivel de qualidade. E com os dados não poderia ser diferente. Mas tudo começa em
+singelos 3 dias de Abril quando ocorre o NFL Draft, onde os melhores jogadores do College
+Football (Futebol americano Unversitário) são escolhidos pelos 32 times da liga, após muitos meses
+de estudos e analise de desempenho.
 
-Content
-Pro-Football-Reference AV: Approximate Value is PFR's attempt to attach a single number to every player-season since 1960. Methodology can be found here: http://www.pro-football-reference.com/blog/indexd961.html?page_id=8061
+Por mais que estejamos tratando de esportes, uma das ciencias mais inexatas da humanidade, onde
+zebras podem ocorrer a qualquer momento, descartando quaisquer estudos, previsões e probabilidades,
+tambem somos agracidados com quantidades enormes de dados, que tem sido usados cada vez mais para
+estudos, analises de desempenho e eventos, sempre elevando a qualidade dos esportes.
 
-Player_Id: Pro Football Reference Player Id
-Year: Draft Year
-Rnd: Draft Round
-Pick: Draft Pick
-Tm: Team
-Player: Player first and last name
-Pos: Position unfiltered
-Position Standard: Position Standardized to one of the following QB, LB, WR, T, DE, RB, DB, DT, C, C, G, TE, FB, P, LS, K
-First4AV: AV accumulated for this player's first four seasons
-Age: Age at time of draft
-To: Year of last season played
-AP1: # of first team all-pro selections
-PB: # of pro-bowl selections
-St: # of years as a primary starter in their primary position
-CarAV: Weighted Career AV - 100% of best season, 95% of second best season, 90% of third best season, and so on
-DrAV: AV accumulated for team that drafted this player
-G: Games played
-Cmp: Pass completions
-Pass_Att: Pass attempts
-Pass_Yds: Yards gained by passing
-Pass_TD: Passing touchdowns
-Pass_Int: Interceptions thrown
-Rush_Att: Rushing attempts
-Rush_Yds: Rushing yards gained
-Rush_TDs: Rushing touchdowns
-Rec: Receptions
-Rec_Yds: Receiving yards gained
-Rec_Tds: Receiving touchdowns
-Tkl: Tackles
-Def_Int: Defensive interceptions
-Sk: Sacks
-College/Univ: College/University attended by player
+## Metodologia
 
-Acknowledgements
-http://www.pro-football-reference.com/
+No escopo desse trabalho pratico usaremos como base dados extraidos do site Pro-Football Reference, o qual
+contém dados sobre os jogadores selecionados nos drats entre os anos de 1985 e 2015. Entre os dados
+temos informações relacionadas ao draft onde o jogador foi escolhido(ano, round de escolha,
+numero da escolha) e da carreira do jogador (anos de carreira, jogos totais, totais de destaques
+de temporada, postion-related data), parte da avaliação de cada jogador é quantificada pelo
+"Aproximate Value" através de métricas usadas pelo site "Pro Football Reference" e estas
+não serão detalhadas.
+
+Agradecimentos
+[Pro Football Reference](http://www.pro-football-reference.com/)
