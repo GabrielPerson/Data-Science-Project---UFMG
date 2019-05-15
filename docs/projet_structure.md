@@ -7,7 +7,6 @@ The project structure used was havily inspired by [The Data Science CookieCutter
 ------------
 
     ├── LICENSE
-    ├── Makefile           <- Makefile with commands like `make data` or `make train`
     ├── README.md          <- The top-level README for developers using this project.
     ├── data
     │   ├── interim_*        <- Intermediate data file that has been transformed.
