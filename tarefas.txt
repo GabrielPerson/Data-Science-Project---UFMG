@@ -6,11 +6,25 @@
 	. Unique college/univ. along the years
 	. Average pick per coll/univ. along the years
 
+    . Comparar jogadores por intervalo de carreira [0-5,5-10,10-15,15-20]
+    . Comparar jogadores por posição
+    . Universidade "especilista" por posição
+    . Probabilidade de um jogador dados as estaticias caia em certo grupo de times.
+    . Teste de hipotese para comparacao de modelos
+    . Calculo de IC dos classificadores.
+    . Avaliar outcome dos drafts comparadno DrAV e escolhas do time.
+
 2. Testes de Hipotese/Intervalos de confiança
 
+
+
 3. Regressão
-	
+
+
+
 4. Aprendizado/Classificação
+
+
 
 5. Motivação
 
