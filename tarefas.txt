@@ -20,7 +20,10 @@
 
 3. Regressão
 
-
+    . Utilizando CarAV, First4AV e demais estatisticas dos jogadores queremos prever o CarAV futuro
+        dos jogadores de diferentes posições e em diferentes épocas de suas carreiras.
+    . Cada posição terá uma função diferente de regressão, pois utilizamos diferentes estatisticas para
+        realizar a avaliação.
 
 4. Aprendizado/Classificação
 
