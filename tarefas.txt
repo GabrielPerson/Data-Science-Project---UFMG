@@ -37,6 +37,7 @@
 4. Aprendizado/Classificação
 
     . Utilizar de classificadores para prever a posição de um jogador baseado em suas estatisticas de jogador.
+    . Separar entre defesa e ataque. Ataque tem estatisticas que defesa não possui e vice-versa
     . Assim pode-se ter ideia das estatisticas melhor discriminam uma posição, principalmente entre posições onde 2 ou mais estatisticas se mostram frequentes.
         x = df['Cmp':'Sk']
         y = df['Pos']
