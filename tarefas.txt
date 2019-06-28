@@ -31,11 +31,15 @@
       Dados normalizados (z-score), alpha e beta calculados usando minimos quadrados
 
     . Regressão multivariada (regressão será feita para cada posição (dados diferem de uma regressão para a outra)) - Utilizar diversas medidas para fazer uma regressão para o AV da carreira do jogador.
-        x = st, (norm(play_stats)), First4AV, carrer_years
+        x = st, G, play_stats, First4AV, carrer_years
         y = CarAV
 
 4. Aprendizado/Classificação
 
+    . Utilizar de classificadores para prever a posição de um jogador baseado em suas estatisticas de jogador.
+    . Assim pode-se ter ideia das estatisticas melhor discriminam uma posição, principalmente entre posições onde 2 ou mais estatisticas se mostram frequentes.
+        x = df['Cmp':'Sk']
+        y = df['Pos']
 
 
 5. Motivação

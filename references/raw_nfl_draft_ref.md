@@ -1,4 +1,4 @@
-# Raw data description
+# Clean data description
 
 ## Context
 
@@ -40,3 +40,4 @@ Pro-Football-Reference AV: Approximate Value is PFR's attempt to attach a single
 - Def_Int: Defensive interceptions
 - Sk: Sacks
 - College/Univ: College/University attended by player
+- carrer_years: Player carrer years
