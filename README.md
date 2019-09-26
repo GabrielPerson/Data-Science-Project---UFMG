@@ -1,4 +1,4 @@
-# projeto_icd
+# Projeto em Ciência dos Dados - UFMG
 
 Projeto final da disciplina de Introdução a Ciencia de Dados - UFMG
 
